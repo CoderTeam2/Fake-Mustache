@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image: url("stache.png");
+    background-position: center;
+}
+
+.font{
+    font-size: 35px;
+    background-color: white;
+    opacity: 0.9;
+}
